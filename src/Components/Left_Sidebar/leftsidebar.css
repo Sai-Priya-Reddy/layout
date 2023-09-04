@@ -1,0 +1,21 @@
+.left-bar{
+    /* background-color: green;
+    height: 740px;
+    width: 150px;
+    position: relative;
+    top: -60px;
+    font-size: x-large; */
+
+    background-color: green;
+    height: 730px;
+    width: 150px;
+    position: relative;
+    top: -60px;
+    padding: 5px;
+    font-size: x-large;
+    margin: 0px;
+}
+
+.left-text{
+    padding-left: 20px;
+}
