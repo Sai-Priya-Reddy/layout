@@ -1,0 +1,14 @@
+.right-sidebar{
+    position: absolute;
+    top: 68px;
+    right: -20px;
+    background-color: greenyellow;
+    width: 130px;
+    height: 740px;
+    font-size: x-large;
+  
+}
+
+.right-text{
+ padding: 20px;
+}
