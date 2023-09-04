@@ -1,0 +1,17 @@
+.main-content{
+    position: absolute;
+    background-color: pink;
+    top: 68px;
+    right: 500px;
+    width: 87%;
+    height: 740px;
+    margin: auto;
+    padding: -5px;
+    margin-right: -400px;
+    left: 1400px;
+    font-size: x-large;
+}
+
+.main-text{
+    margin-left: 20px;
+}
